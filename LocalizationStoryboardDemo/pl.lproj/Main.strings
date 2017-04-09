@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = " x Ogórek"; ObjectID = "Cjx-R9-679"; */
+"Cjx-R9-679.text" = " x Ogórek";
+
+/* Class = "UILabel"; text = " x Pomidor"; ObjectID = "M0t-16-LcX"; */
+"M0t-16-LcX.text" = " x Pomidor";
+
+/* Class = "UILabel"; text = " x Chleb"; ObjectID = "SKb-UE-6cm"; */
+"SKb-UE-6cm.text" = " x Chleb";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Y9J-dr-gRV"; */
+"Y9J-dr-gRV.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Z0R-0H-y97"; */
+"Z0R-0H-y97.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "p9W-pq-PVq"; */
+"p9W-pq-PVq.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Lista zakupów"; ObjectID = "xqb-x1-RNN"; */
+"xqb-x1-RNN.title" = "Lista zakupów";

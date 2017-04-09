@@ -20,10 +20,10 @@
 		2DEEF8D41E9ABE4B006853D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2DEEF8D91E9ABE4B006853D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DEEF8DE1E9ABE4B006853D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2DEEF8E41E9AC421006853D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2DEEF8E51E9AC421006853D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		2DEEF8E61E9AC444006853D8 /* pl */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = pl; path = pl.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2DEEF8E71E9AC444006853D8 /* pl */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = pl; path = pl.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2DEEF8F41E9ACE24006853D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2DEEF8F51E9ACE24006853D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2DEEF8F61E9ACE2E006853D8 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Main.strings; sourceTree = "<group>"; };
+		2DEEF8F71E9ACE3A006853D8 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +109,7 @@
 			knownRegions = (
 				en,
 				pl,
+				Base,
 			);
 			mainGroup = 2DEEF8C61E9ABE4B006853D8;
 			productRefGroup = 2DEEF8D01E9ABE4B006853D8 /* Products */;
@@ -149,8 +150,8 @@
 		2DEEF8D61E9ABE4B006853D8 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				2DEEF8E41E9AC421006853D8 /* en */,
-				2DEEF8E61E9AC444006853D8 /* pl */,
+				2DEEF8F41E9ACE24006853D8 /* Base */,
+				2DEEF8F61E9ACE2E006853D8 /* pl */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -158,8 +159,8 @@
 		2DEEF8DB1E9ABE4B006853D8 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				2DEEF8E51E9AC421006853D8 /* en */,
-				2DEEF8E71E9AC444006853D8 /* pl */,
+				2DEEF8F51E9ACE24006853D8 /* Base */,
+				2DEEF8F71E9ACE3A006853D8 /* pl */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
